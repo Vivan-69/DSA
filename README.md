@@ -6,6 +6,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vivan-69/DSA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivan-69/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivan-69/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivan-69/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vivan-69/DSA/tree/master/0001-two-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivan-69/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
