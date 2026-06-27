@@ -75,6 +75,11 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vivan-69/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vivan-69/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vivan-69/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vivan-69/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
