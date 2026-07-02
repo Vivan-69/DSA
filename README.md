@@ -30,6 +30,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivan-69/DSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vivan-69/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Vivan-69/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vivan-69/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivan-69/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vivan-69/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Vivan-69/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
