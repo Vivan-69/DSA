@@ -124,5 +124,14 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vivan-69/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
