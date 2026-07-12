@@ -9,6 +9,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0001-two-sum](https://github.com/Vivan-69/DSA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivan-69/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivan-69/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivan-69/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivan-69/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -32,6 +33,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0001-two-sum](https://github.com/Vivan-69/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivan-69/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Vivan-69/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vivan-69/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivan-69/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivan-69/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vivan-69/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivan-69/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
