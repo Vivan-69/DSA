@@ -137,4 +137,8 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Vivan-69/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
