@@ -32,6 +32,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0001-two-sum](https://github.com/Vivan-69/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivan-69/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Vivan-69/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vivan-69/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vivan-69/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vivan-69/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vivan-69/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vivan-69/DSA/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vivan-69/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
