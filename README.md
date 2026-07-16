@@ -23,6 +23,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Vivan-69/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivan-69/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivan-69/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivan-69/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivan-69/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vivan-69/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivan-69/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivan-69/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vivan-69/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,4 +153,9 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivan-69/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
