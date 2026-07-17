@@ -36,6 +36,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivan-69/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Vivan-69/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vivan-69/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vivan-69/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivan-69/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
