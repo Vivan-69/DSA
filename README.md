@@ -7,6 +7,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivan-69/DSA/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vivan-69/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivan-69/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivan-69/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vivan-69/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vivan-69/DSA/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivan-69/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivan-69/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vivan-69/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
