@@ -75,10 +75,12 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vivan-69/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivan-69/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vivan-69/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vivan-69/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivan-69/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vivan-69/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,4 +168,12 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vivan-69/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vivan-69/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
