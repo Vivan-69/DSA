@@ -29,6 +29,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vivan-69/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Vivan-69/DSA/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0048-rotate-image](https://github.com/Vivan-69/DSA/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/Vivan-69/DSA/tree/master/0231-power-of-two) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivan-69/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vivan-69/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/Vivan-69/DSA/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
