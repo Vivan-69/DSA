@@ -24,6 +24,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Vivan-69/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivan-69/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Vivan-69/DSA/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivan-69/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Vivan-69/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vivan-69/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/Vivan-69/DSA/tree/master/0189-rotate-array) |
 | [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vivan-69/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0048-rotate-image](https://github.com/Vivan-69/DSA/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/Vivan-69/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vivan-69/DSA/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivan-69/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Vivan-69/DSA/tree/master/2235-add-two-integers) |
