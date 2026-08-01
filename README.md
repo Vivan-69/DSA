@@ -34,6 +34,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vivan-69/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Vivan-69/DSA/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0048-rotate-image](https://github.com/Vivan-69/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vivan-69/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Vivan-69/DSA/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivan-69/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vivan-69/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0089-gray-code](https://github.com/Vivan-69/DSA/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Vivan-69/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vivan-69/DSA/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivan-69/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivan-69/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Vivan-69/DSA/tree/master/2235-add-two-integers) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
 ## Union-Find
 |  |
@@ -227,4 +231,8 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivan-69/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
