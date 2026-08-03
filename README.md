@@ -49,6 +49,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vivan-69/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivan-69/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vivan-69/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vivan-69/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivan-69/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivan-69/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Vivan-69/DSA/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vivan-69/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 ## Union-Find
 |  |
 | ------- |
@@ -239,4 +242,5 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
