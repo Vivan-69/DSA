@@ -97,11 +97,13 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivan-69/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vivan-69/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vivan-69/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Vivan-69/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vivan-69/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vivan-69/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Vivan-69/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vivan-69/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vivan-69/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/Vivan-69/DSA/tree/master/3310-remove-methods-from-project) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
