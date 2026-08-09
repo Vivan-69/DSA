@@ -50,6 +50,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivan-69/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vivan-69/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivan-69/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivan-69/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivan-69/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivan-69/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Vivan-69/DSA/tree/master/2235-add-two-integers) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivan-69/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Union-Find
@@ -259,13 +263,16 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
