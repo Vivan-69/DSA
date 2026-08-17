@@ -57,6 +57,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [1331-rank-transform-of-an-array](https://github.com/Vivan-69/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivan-69/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Vivan-69/DSA/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vivan-69/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vivan-69/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vivan-69/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vivan-69/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Vivan-69/DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vivan-69/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Vivan-69/DSA/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Vivan-69/DSA/tree/master/2235-add-two-integers) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vivan-69/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Vivan-69/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivan-69/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Union-Find
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [1140-stone-game-ii](https://github.com/Vivan-69/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vivan-69/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vivan-69/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Vivan-69/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Vivan-69/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
