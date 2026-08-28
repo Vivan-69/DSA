@@ -37,6 +37,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0189-rotate-array](https://github.com/Vivan-69/DSA/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/Vivan-69/DSA/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivan-69/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vivan-69/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vivan-69/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vivan-69/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vivan-69/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vivan-69/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vivan-69/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivan-69/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vivan-69/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vivan-69/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vivan-69/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
