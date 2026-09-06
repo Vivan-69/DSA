@@ -160,6 +160,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivan-69/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vivan-69/DSA/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Vivan-69/DSA/tree/master/0115-distinct-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivan-69/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Vivan-69/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivan-69/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Vivan-69/DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Vivan-69/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Vivan-69/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Vivan-69/DSA/tree/master/0877-stone-game) |
