@@ -159,6 +159,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0020-valid-parentheses](https://github.com/Vivan-69/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vivan-69/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vivan-69/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivan-69/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 | [0020-valid-parentheses](https://github.com/Vivan-69/DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Vivan-69/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Vivan-69/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivan-69/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vivan-69/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Vivan-69/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivan-69/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions that i solved!**(i have solved many but have 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vivan-69/DSA/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vivan-69/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
